@@ -1,0 +1,18 @@
+<view class="header">
+<!-- logo -->
+<navigator class="logo">
+<image class="logo-img" style="width:100rpx;height:60rpx;" src="../../../icon/bilibili.png" />
+</navigator>
+<!-- 搜素 -->
+<view class="search-icon">
+<image src="../../../icon/search.png" style="width:60rpx;height:60rpx;" />
+</view>
+<!-- 用户 -->
+<view class="user-icon">
+<image src="../../../icon/1USER.png" style="width:54rpx;height:60rpx;" />
+</view>
+<!-- 下载按钮 -->
+<view class="down-app">
+下载 APP
+</view>
+</view>

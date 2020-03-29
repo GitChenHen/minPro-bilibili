@@ -1,0 +1,33 @@
+/* pages/components/MyTitle/MyTitle.wxss */
+.header{
+    display: flex;
+    align-items: center;
+    padding: 10rpx;
+    background-color: pink;
+}
+.logo{
+    flex: 7;
+    display: flex;
+}
+.search-icon{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.user-icon{
+    flex: 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.down-app{
+    flex: 3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    color: red;
+    border-radius: 10rpx;
+    padding: 10rpx;
+}
